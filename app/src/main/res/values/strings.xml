@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="plus">Сложить</string>
+    <string name="minus">Вычесть</string>
+    <string name="multiply">Умножить</string>
+    <string name="divide">Разделить</string>
+    <string name="a">A:</string>
+    <string name="b">B:</string>
+    <string name="result">Результат: </string>
+    <string name="sin">SIN</string>
+    <string name="cos">COS</string>
+    <string name="tg">TAN</string>
+    <string name="sqrt">Вычислить корень</string>
+    <string name="pow">Возвести в степень</string>
+</resources>
